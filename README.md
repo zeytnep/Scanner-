@@ -2,7 +2,7 @@ Zeynep Erdogru
 Student ID#1047085
 zerdogru@uoguelph.ca
 
-Warmup assignment 1
+#Scanner 
 
 Description:
 The program will filter out the irrelevant information in textual documents and convert the
@@ -16,5 +16,3 @@ To compile and run:
 
 To clean:
     Type make clean
-
-# Scanner
