@@ -1,5 +1,4 @@
 Zeynep Erdogru 
-Student ID#1047085
 zerdogru@uoguelph.ca
 
 #Scanner 
